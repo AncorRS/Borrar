@@ -27,7 +27,7 @@ public class Borrar extends HttpServlet {
 	 * @see Servlet#init(ServletConfig)
 	 */
 	public void init(ServletConfig config) throws ServletException {
-		System.out.println("PRUEBAS VARIAS");
+		System.out.println("PRUEBAS VARIAS CHULAS");
 	}
 
 	/**
